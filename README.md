@@ -11,3 +11,7 @@ Add following to .inputrc
 ## arrow down
 "\e[B":history-search-forward
 ```
+
+
+Etcher 
+https://github.com/resin-io/etcher#debian-and-ubuntu-based-package-repository-gnulinux-x86x64
